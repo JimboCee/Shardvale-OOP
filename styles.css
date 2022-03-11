@@ -1,0 +1,24 @@
+#textArea {
+    text-align: center;
+    font-family: Georgia, serif ;
+    font-style: bold;
+    }
+#userInput {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+#container {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Alfa Slab One', 'cursive';
+}
+body {
+    text-align: center;
+    border: 20px;
+    background: rgb(193,194,120);
+    background: linear-gradient(90deg, rgba(193,194,120,1) 0%, rgba(47,133,236,1) 100%); 
+}
