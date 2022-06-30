@@ -8,4 +8,3 @@
 - inventory system (check your pockets) - items.js needs populating
 - populate characters.js 
 
--  Thanks for playing Shardvale! Please let me know what you think.
