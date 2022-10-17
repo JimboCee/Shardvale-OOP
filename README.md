@@ -7,4 +7,4 @@
 - Atmospheric sound for various rooms 
 - inventory system (check your pockets) - items.js needs populating
 - populate characters.js 
-
+- consider the following - 
